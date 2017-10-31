@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     public static final String LOAN_STATUS = "status";
     public static final String LOAN_REPAYMENT = "repayment";
+    public double price, payment, rate, repayment, salary;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

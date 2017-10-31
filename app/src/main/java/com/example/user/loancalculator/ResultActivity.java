@@ -18,6 +18,6 @@ public class ResultActivity extends AppCompatActivity {
     }
 
     public void closeActivity(View view){
-    finish();
+        finish();
     }
 }
